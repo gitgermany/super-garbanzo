@@ -4,4 +4,8 @@ what is happening
 
 i m addint more to u
 
+<<<<<<< HEAD
 Ben is here!
+=======
+anne is here!
+>>>>>>> a1fa1521b2fe20cb536634c4a13122ae9ebe3536
